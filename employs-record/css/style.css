@@ -1,0 +1,13 @@
+img {
+    width: 17rem;
+    height: 300px;
+}
+
+h1 {
+    padding: 20px;
+}
+
+.card {
+    height: 500px;
+    margin: 10px 5px 5px 5px;
+}
